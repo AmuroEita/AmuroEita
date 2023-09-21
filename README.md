@@ -1,1 +1,1 @@
-!(https://img.shields.io/github/stars/AmuroEita)
+![](https://img.shields.io/github/stars/AmuroEita)
